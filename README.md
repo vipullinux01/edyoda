@@ -1,2 +1,0 @@
-# edyoda
-a test repository
